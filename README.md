@@ -1,97 +1,69 @@
 
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm Bhanu Prasad</h1>
+
 <h3 align="center">🚀 Forward Deployed Engineer | Building Real-World Solutions</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Forward+Deployed+Engineer;Building+Scalable+Solutions;Turning+Ideas+Into+Reality;Engineering+Meets+Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Forward+Deployed+Engineer;Building+Scalable+Solutions;Turning+Ideas+Into+Reality;Engineering+Meets+Innovation" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🚀 I'm a **Forward Deployed Engineer**
-- 💡 Passionate about building real-world technology solutions
-- 🌐 Interested in Web Development and Software Engineering
-- ⚡ Focused on solving complex problems through technology
-- 🎯 Always learning and exploring new technologies
+- 🚀 I'm Bhanu Prasad, a Forward Deployed Engineer.
+- 💡 Passionate about solving real-world problems using technology.
+- 🌐 Interested in Web Development and Software Engineering.
+- ⚡ Focused on building practical and scalable solutions.
+- 🎯 Always learning and exploring new technologies.
 
 ---
 
 ### 🛠️ Languages & Technologies
 
-<p align="left">
-  <a href="https://www.w3.org/html/">
-    <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML" />
-  </a>
-  <a href="https://www.w3.org/Style/CSS/">
-    <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript" />
-  </a>
-  <a href="https://react.dev/">
-    <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" />
-  </a>
-  <a href="https://nodejs.org/">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" />
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python" />
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
-  </a>
-  <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" />
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code" />
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" width="60" />
+  <img src="https://skillicons.dev/icons?i=css" width="60" />
+  <img src="https://skillicons.dev/icons?i=js" width="60" />
+</p>
+
+<p align="center">
+  <b>HTML5 &nbsp; CSS3 &nbsp; JavaScript</b>
 </p>
 
 ---
 
-### ⚙️ What I Do
+### 💻 What I Do
 
-- 💻 Full Stack Development
-- 🔗 API Development & Integration
-- 🤖 AI-Powered Applications
-- ☁️ Cloud & Deployment
-- 🧩 Problem Solving & System Integration
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="165" />
-</p>
+- 🌐 Frontend Development
+- 🎨 Responsive Web Design
+- ⚡ JavaScript Development
+- 🔗 API Integration
+- 🚀 Building Real-World Solutions
+- 🧩 Problem Solving
 
 ---
 
-### 📈 Most Used Languages
+### 📌 My Tech Focus
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ---
 
 ### 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://skillicons.dev/icons?i=github" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <b>⚡ Building technology. Solving problems. Creating impact. 🚀</b>
-</p>
+<h3 align="center">⚡ Build. Innovate. Deploy. Repeat. 🚀</h3>
+
+<h4 align="center">Thanks for visiting my profile! 😊</h4>
